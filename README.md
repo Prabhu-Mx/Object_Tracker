@@ -6,4 +6,4 @@ Tracking a moving object such as humans or vehicles is an integral part of surve
 
 #Illustration
 
-![](https://github.com/ajai4v/Weapon_Detection/blob/master/images/1018.jpg)
+![](https://github.com/Prabhu-Mx/Object_Tracker/blob/master/images/Object_tracker.jpg)
