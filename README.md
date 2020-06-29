@@ -11,5 +11,7 @@ The End user have to draw a box on the object, which he/she wants to track. That
 Press 's' to draw a rectangle on the video; Press 'Enter" once its done.
 ![](https://github.com/Prabhu-Mx/Object_Tracker/blob/master/images/Object_tracker.jpg)
 
+![](https://github.com/Prabhu-Mx/Object_Tracker/blob/master/images/Tracker_man_border.gif)
 
-![](https://github.com/Prabhu-Mx/Object_Tracker/blob/master/images/Tracker_man_border.mp4)
+
+
